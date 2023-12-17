@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+li{
+    list-style: none;
+    padding: 0;
+    border: 3px solid rgb(63, 54, 41);
+    margin: 20px;
+    width: 250px;
+    margin-left: 540px;
+}
+
+#remove-btn{
+    margin-bottom: 10px;
+}
+
+#desc{
+    margin-left: 53px;
+}
